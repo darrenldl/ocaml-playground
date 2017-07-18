@@ -1,0 +1,5 @@
+chorus.ml: Arg Cmdliner Manpage Term
+cp.ml: Arg Cmdliner List Manpage Printf String Sys Term
+darcs.ml: Arg Cmdliner Filename Format List Manpage Printf String Term
+osbx_mock.ml: Arg Cmdliner Manpage Printf String Term
+revolt.ml: Cmdliner Term

@@ -1,0 +1,3 @@
+crcccitt_c.ml-gen: Crcccitt_c__Crcccitt_wrap Crcccitt_c__Test
+crcccitt_wrap.ml: Bytes Ctypes Foreign Stdint Unsigned
+test.ml: Crcccitt_wrap Hex Printf Stdint Uint16

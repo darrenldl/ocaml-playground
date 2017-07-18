@@ -1,0 +1,5 @@
+(** @canonical Crcccitt_c.Crcccitt_wrap *)
+module Crcccitt_wrap = Crcccitt_c__Crcccitt_wrap
+
+(** @canonical Crcccitt_c.Test *)
+module Test = Crcccitt_c__Test
